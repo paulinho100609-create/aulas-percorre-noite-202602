@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Limelight&display=swap');
+
+body {
+    background-color: black;
+}
+header{
+    background-color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+}
+#logo{
+    height: 250px;
+    width: 500px;
+    margin-top: 5px;
+    margin-bottom: 25px;
+    margin-left: 5px;
+}
+#foto-perfil{
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+#usuario{
+    display: flex;
+    margin-right: 20px;
+    margin-top: 15px;
+}
+
+a{
+    font-family: "Limelight", sans-serif;
+    padding-left: 20px;
+    text-decoration: none;
+
+}
+
+#nome-usuario{
+    font-family: "Fascinate", system-ui;
+}
+
+header-nav{
+display: flex;
+align-items: center;
+justify-content: space-around;
+padding-left: 20px;
+}
+
+footer{
+    background-color: black;
+}
+
+#direitos{
+    color: white;
+    font-size: 30px;
+}

@@ -1,0 +1,18 @@
+#card{
+    background-color: rgb(169, 100, 169);
+    border: 10px solid rgb(82, 23, 82);
+
+    width: 500px;
+    padding: 50px 100px 10px 100px;
+    
+}
+#foto{
+    width: 500px;
+    height: 450px;
+}
+p{
+    width: 400px;
+}
+h2{
+    width: 400px;
+}
