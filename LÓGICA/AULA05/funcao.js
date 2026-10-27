@@ -31,4 +31,4 @@ let total12 = somador(6, 7)
 console.log(total12);
 
 // A função tambem pode ser invocada dentro de outras funções ou métodos, como no exemplo abaixo, onde invocamos a função somador dentro de console.log()
-console.log(somador(15, 25));
+console.log(somador(15, 25)); 
